@@ -17,7 +17,14 @@
     "type": "git",
     "url": "git://github.com/jstransformers/jstransformer-toffee.git"
   },
-  "keywords": [],
+  "keywords": [
+    "engine",
+    "jstranformer",
+    "modular",
+    "template",
+    "toffee",
+    "trasfrom"
+  ],
   "license": {
     "type": "MIT",
     "url": "https://github.com/jstransformers/jstransformer-toffee/blob/master/license.md"
