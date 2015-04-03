@@ -34,17 +34,17 @@ Released under the [`MIT`][license-url] license.
 [npmjs-url]: http://npm.im/jstransformer-toffee
 [npmjs-img]: https://img.shields.io/npm/v/jstransformer-toffee.svg?style=flat&label=jstransformer-toffee
 
-[coveralls-url]: https://coveralls.io/r/tunnckoCore/jstransformer-toffee?branch=master
-[coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/jstransformer-toffee.svg?style=flat
+[coveralls-url]: https://coveralls.io/r/jstransformers/jstransformer-toffee?branch=master
+[coveralls-img]: https://img.shields.io/coveralls/jstransformers/jstransformer-toffee.svg?style=flat
 
-[license-url]: https://github.com/tunnckoCore/jstransformer-toffee/blob/master/license.md
+[license-url]: https://github.com/jstransformers/jstransformer-toffee/blob/master/license.md
 [license-img]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
 
-[travis-url]: https://travis-ci.org/tunnckoCore/jstransformer-toffee
-[travis-img]: https://img.shields.io/travis/tunnckoCore/jstransformer-toffee.svg?style=flat
+[travis-url]: https://travis-ci.org/jstransformers/jstransformer-toffee
+[travis-img]: https://img.shields.io/travis/jstransformers/jstransformer-toffee.svg?style=flat
 
-[daviddm-url]: https://david-dm.org/tunnckoCore/jstransformer-toffee
-[daviddm-img]: https://img.shields.io/david/tunnckoCore/jstransformer-toffee.svg?style=flat
+[daviddm-url]: https://david-dm.org/jstransformers/jstransformer-toffee
+[daviddm-img]: https://img.shields.io/david/jstransformers/jstransformer-toffee.svg?style=flat
 
 [author-gratipay]: https://gratipay.com/tunnckoCore
 [author-twitter]: https://twitter.com/tunnckoCore
@@ -52,7 +52,7 @@ Released under the [`MIT`][license-url] license.
 [author-npmjs]: https://npmjs.org/~tunnckocore
 
 [contrib-more]: http://j.mp/1stW47C
-[contrib-graf]: https://github.com/tunnckoCore/jstransformer-toffee/graphs/contributors
+[contrib-graf]: https://github.com/jstransformers/jstransformer-toffee/graphs/contributors
 
 ***
 
