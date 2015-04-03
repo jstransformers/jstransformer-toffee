@@ -1,5 +1,5 @@
 /**
- * jstransformer-toffee <https://github.com/tunnckoCore/jstransformer-toffee>
+ * jstransformer-toffee <https://github.com/jstransformers/jstransformer-toffee>
  *
  * Copyright (c) 2015 Charlike Mike Reagent, contributors.
  * Released under the MIT license.
