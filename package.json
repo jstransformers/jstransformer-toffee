@@ -1,0 +1,33 @@
+{
+  "name": "jstransformer-toffee",
+  "version": "0.0.0",
+  "description": "toffee template engine for JS Transformers",
+  "scripts": {
+    "lint": "jshint index.js && jscs index.js --reporter inline",
+    "test": "node test",
+    "test-cov": "istanbul cover test",
+    "test-travis": "istanbul cover test --report lcovonly"
+  },
+  "author": {
+    "name": "Charlike Mike Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "https://github.com/tunnckoCore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tunnckoCore/jstransformer-toffee.git"
+  },
+  "keywords": [],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/tunnckoCore/jstransformer-toffee/blob/master/license.md"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.24",
+    "toffee": "^0.1.12"
+  },
+  "devDependencies": {
+    "istanbul-harmony": "~0.3.1",
+    "testit": "~2.0.2"
+  }
+}

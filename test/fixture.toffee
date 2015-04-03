@@ -1,0 +1,1 @@
+{# for supply in supplies {:<li>#{supply}</li>:} #}
