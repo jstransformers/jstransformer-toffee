@@ -13,7 +13,18 @@ npm test
 > For more use-cases see the [tests](./test.js)
 
 ```js
-var jstransformerToffee = require('jstransformer-toffee');
+var toffee = require('jstransformer')(require('jstransformer-toffee'));
+var opts = {};
+
+toffee.render('<h1>Hello #{place}!</h1>', {place: 'world'}, opts);
+//=> '<h1>Hello world!</h1>'
+
+
+var promise = toffee.renderFileAsync('./path/to/hello.toffee', {place: 'world'});
+promise.then(function(data) {
+  console.log(data);
+  //=> '<h1>Hello world!</h1>'
+});
 ```
 
 
