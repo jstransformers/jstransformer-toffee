@@ -15,7 +15,7 @@ var readFile = bluebird.promisify(fs.readFile);
 var readFileSync = fs.readFileSync;
 
 exports.name = 'toffee';
-exports.outputFormat = 'text';
+exports.outputFormat = 'html';
 
 exports.compile = toffee.compile;
 exports.compileFile = function _compileFile(filepath, opts) {
