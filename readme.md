@@ -17,9 +17,6 @@ var jstransformerToffee = require('jstransformer-toffee');
 ```
 
 
-## API / CLI
-
-
 ## Author
 **Charlike Mike Reagent**
 + [gratipay/tunnckoCore][author-gratipay]
