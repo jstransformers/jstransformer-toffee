@@ -30,11 +30,11 @@
     "url": "https://github.com/jstransformers/jstransformer-toffee/blob/master/license.md"
   },
   "dependencies": {
-    "bluebird": "^2.9.24",
-    "toffee": "^0.1.12"
+    "bluebird": "~2.9.24",
+    "toffee": "~0.1.12"
   },
   "devDependencies": {
-    "istanbul-harmony": "~0.3.1",
-    "testit": "~2.0.2"
+    "assertit": "^0.1.0",
+    "istanbul-harmony": "~0.3.1"
   }
 }
