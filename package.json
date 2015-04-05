@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-toffee",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "toffee template engine for JS Transformers",
   "scripts": {
     "lint": "jshint index.js && jscs index.js --reporter inline",
