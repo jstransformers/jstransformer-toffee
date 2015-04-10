@@ -1,6 +1,6 @@
 ## [![npm][npmjs-img]][npmjs-url] [![mit license][license-img]][license-url] [![build status][travis-img]][travis-url] [![coverage status][coveralls-img]][coveralls-url] [![deps status][daviddm-img]][daviddm-url]
 
-> toffee template engine for JS Transformers
+> [toffee](https://github.com/malgorithms/toffee) template engine for JS Transformers
 
 ## Install
 ```
@@ -26,6 +26,14 @@ promise.then(function(data) {
   //=> '<h1>Hello world!</h1>'
 });
 ```
+
+
+## Related
+- [toffee](https://github.com/malgorithms/toffee): A NodeJs, Express 3.x, Express 2.x, and browser-side templating language based on CoffeeScript with slicker tokens and syntax.
+- [jstransformer](https://github.com/jstransformers/jstransformer): Normalize the API of any jstransformer
+- [jstransformer-underscore](https://github.com/jstransformers/jstransformer-underscore): Compile and render underscore templates
+- [jstransformer-rework](https://github.com/jstransformers/jstransformer-rework): ReworkCSS support for JS Transformers. CSS to CSS transformation.
+- [jstransformer-postcss](https://github.com/jstransformers/jstransformer-postcss): PostCSS support for JS Transformers. CSS to CSS transformation.
 
 
 ## License [![MIT license][license-img]][license-url]
