@@ -1,5 +1,8 @@
 
 
+## v0.4.1 / April 10, 2015
+- add `inputFormats`
+
 ## v0.4.0 / April 10, 2015
 - add related section
 - run update
