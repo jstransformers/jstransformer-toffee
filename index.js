@@ -12,6 +12,7 @@ var path = require('path');
 var toffee = require('toffee');
 
 exports.name = 'toffee';
+exports.inputFormats = ['toffee', 'html'];
 exports.outputFormat = 'html';
 
 exports.compile = function _compile(str, options) {
