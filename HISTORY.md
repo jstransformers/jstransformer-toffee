@@ -1,5 +1,8 @@
 
 
+## v0.4.3 / April 11, 2015
+- update, remove `fs` and `path` refs
+
 ## v0.4.2 / April 11, 2015
 - update readme
 
