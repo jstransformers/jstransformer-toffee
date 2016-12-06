@@ -1,55 +1,25 @@
-# .gitignore <https://github.com/tunnckoCore/dotfiles>
-#
-# Copyright (c) 2015 Charlike Mike Reagent, contributors.
-# Released under the MIT license.
-#
-
-# Always-ignore dirs #
-# ####################
-_gh_pages
-node_modules
-bower_components
-components
-vendor
-build
-dest
-dist
-src
-lib-cov
-coverage
-nbproject
-cache
-temp
-tmp
-
-# Packages #
-# ##########
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
-
-# OS, Logs and databases #
-# #########################
-*.pid
-*.dat
+# Logs
+logs
 *.log
-*.sql
-*.sqlite
-*~
-~*
 
-# Another files #
-# ###############
-Icon?
-.DS_Store*
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-npm-debug.log
-.directory
-._*
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+# Commenting this out is preferred by some people, see
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+
+# Users Environment Variables
+.lock-wscript

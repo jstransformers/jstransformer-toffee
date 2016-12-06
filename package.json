@@ -1,40 +1,33 @@
 {
-  "name": "jstransformer-toffee",
-  "version": "0.4.3",
-  "description": "toffee template engine for JS Transformers",
-  "scripts": {
-    "lint": "jshint index.js && jscs index.js --reporter inline",
-    "test": "node test",
-    "test-cov": "istanbul cover test",
-    "test-travis": "istanbul cover test --report lcovonly"
-  },
-  "author": {
-    "name": "Charlike Mike Reagent",
-    "email": "mameto_100@mail.bg",
-    "url": "https://github.com/tunnckoCore"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jstransformers/jstransformer-toffee.git"
-  },
-  "keywords": [
-    "engine",
-    "jstranformer",
-    "modular",
-    "template",
-    "toffee",
-    "trasfrom"
-  ],
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/jstransformers/jstransformer-toffee/blob/master/LICENSE.md"
-  },
   "dependencies": {
     "toffee": "~0.1.12"
   },
+  "name": "jstransformer-toffee",
+  "version": "0.5.0",
+  "description": "toffee support for JSTransformers.",
+  "keywords": [
+    "jstransformer"
+  ],
+  "files": [
+    "index.js"
+  ],
   "devDependencies": {
-    "assertit": "^0.1.0",
-    "istanbul-harmony": "~0.3.1",
-    "jstransformer": "~1.0.0"
-  }
+    "test-jstransformer": "^1.0.0"
+  },
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "engines": {
+    "node": ">=0.10.36"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstransformers/jstransformer-toffee.git"
+  },
+  "author": {
+    "name": "JSTransformers Team",
+    "url": "http://github.com/orgs/jstransformers/people"
+  },
+  "license": "MIT"
 }

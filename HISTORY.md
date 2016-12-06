@@ -1,4 +1,8 @@
+# Changelog
 
+## v0.5.0: 2016-12-05
+
+- Updated Boilerplate
 
 ## v0.4.3 / April 11, 2015
 - update, remove `fs` and `path` refs
@@ -32,3 +36,5 @@
 
 ## v0.0.0 / April 3, 2015
 - first commits
+=======
+>>>>>>> 3cef404aea1421e9398402d6c5bf3d9f6574de97
