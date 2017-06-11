@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.6.0: 2017-06-11
+
+- Updated `toffee  ~0.1.12  →  ~0.2.1`
+
 ## v0.5.0: 2016-12-05
 
 - Updated Boilerplate

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "toffee": "~0.1.12"
+    "toffee": "~0.2.1"
   },
   "name": "jstransformer-toffee",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "toffee support for JSTransformers.",
   "keywords": [
     "jstransformer"
