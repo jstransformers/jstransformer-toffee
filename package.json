@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "toffee": "~0.2.1"
+    "toffee": "~0.3.1"
   },
   "name": "jstransformer-toffee",
   "version": "0.6.0",
