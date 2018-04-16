@@ -7,6 +7,7 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-toffee/master.svg)](https://travis-ci.org/jstransformers/jstransformer-toffee)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-toffee/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-toffee)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-toffee/master.svg)](http://david-dm.org/jstransformers/jstransformer-toffee)
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-toffee.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-toffee.svg)](https://www.npmjs.org/package/jstransformer-toffee)
 
 ## Installation
@@ -21,7 +22,6 @@ var opts = {};
 
 toffee.render('<h1>Hello #{place}!</h1>', opts, {place: 'world'}).body;
 //=> '<h1>Hello world!</h1>'
-
 
 var promise = toffee.renderFileAsync('./path/to/hello.toffee', opts, {place: 'world'});
 promise.then(function(data) {

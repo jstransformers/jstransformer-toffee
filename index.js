@@ -1,6 +1,6 @@
 'use strict'
 
-var toffee = require('toffee')
+const toffee = require('toffee')
 
 exports.name = 'toffee'
 exports.outputFormat = 'html'
@@ -10,6 +10,6 @@ exports.compile = function (str, options) {
 }
 
 exports.render = function (str, options, locals) {
-  var renderer = exports.compile(str, options)
+  const renderer = exports.compile(str, options)
   return renderer(locals)
 }
