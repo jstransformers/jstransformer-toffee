@@ -1,7 +1,5 @@
 # jstransformer-toffee
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-toffee.svg)](https://greenkeeper.io/)
-
 [Toffee](https://github.com/malgorithms/toffee) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-toffee/master.svg)](https://travis-ci.org/jstransformers/jstransformer-toffee)
