@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-toffee/master.svg)](https://travis-ci.org/jstransformers/jstransformer-toffee)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-toffee/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-toffee)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-toffee/master.svg)](http://david-dm.org/jstransformers/jstransformer-toffee)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-toffee.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-toffee.svg)](https://www.npmjs.org/package/jstransformer-toffee)
 
 ## Installation
